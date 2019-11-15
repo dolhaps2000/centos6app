@@ -36,3 +36,15 @@ wget https://raw.githubusercontent.com/johndesu090/centos6app/master/private.sh 
   ```html
 wget https://raw.githubusercontent.com/johndesu090/centos6app/master/vip.sh && chmod +x vip.sh && ./vip.sh
   ```
+  
+<h3 align="center">Additional Info</h3>
+<p align="center">
+Recommended OS: CentOS 6 x64
+
+<h3 align="center">Screenshots</h3>
+<p align="center">
+<img src="https://github.com/johndesu090/centos6app/raw/master/Snapshots/ss1.png">
+   </p>
+  <p align="center">
+  <img src="https://github.com/johndesu090/centos6app/raw/master/Snapshots/ss2.png">
+   </p>
