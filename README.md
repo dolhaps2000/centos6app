@@ -49,5 +49,5 @@ wget https://raw.githubusercontent.com/johndesu090/centos6app/master/vip.sh && c
 <img src="https://github.com/johndesu090/centos6app/raw/master/Snapshots/ss1.png">
    </p>
   <p align="center">
-  <img src="https://github.com/johndesu090/centos6app/raw/master/Snapshots/ss2.png">
+  <img src="https://github.com/johndesu090/centos6app/raw/master/Snapshots/ss2n.png">
    </p>
