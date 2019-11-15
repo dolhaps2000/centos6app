@@ -19,8 +19,20 @@
   <a><img src="https://img.shields.io/badge/Service-Squid3-green.svg"></a>
  </p>
 
-<h3 align="center">Installation (Default Version)</h3>
+<h3 align="center">Installation (Premium Server)</h3>
 
   ```html
-wget https://github.com/johndesu090/AutoScriptDS/raw/master/DebianStretch && chmod +x DebianStretch && ./DebianStretch
+wget https://raw.githubusercontent.com/johndesu090/centos6app/master/premium.sh && chmod +x premium.sh && ./premium.sh
+  ```
+  
+<h3 align="center">Installation (Private Server)</h3>
+
+  ```html
+wget https://raw.githubusercontent.com/johndesu090/centos6app/master/private.sh && chmod +x private.sh && ./private.sh
+  ```  
+  
+<h3 align="center">Installation (VIP Server)</h3>
+
+  ```html
+wget https://raw.githubusercontent.com/johndesu090/centos6app/master/vip.sh && chmod +x vip.sh && ./vip.sh
   ```
