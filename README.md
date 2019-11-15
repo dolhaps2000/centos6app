@@ -40,7 +40,9 @@ wget https://raw.githubusercontent.com/johndesu090/centos6app/master/vip.sh && c
 <h3 align="center">Additional Info</h3>
 
 <p align="center">Recommended OS: CentOS 6 x64</p>
+<p align="center">OpenSSH Port: 22</p>
 <p align="center">OpenVPN Port: 465</p>
+<p align="center">SSL Port: 442</p>
 <p align="center">BadVPN Port: 7300</p>
 <p align="center">Squid3 Port: 8080, 8000, 3128, 8888</p>
 
