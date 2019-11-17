@@ -25,17 +25,17 @@
 wget https://raw.githubusercontent.com/johndesu090/centos6app/master/premium.sh && chmod +x premium.sh && ./premium.sh
   ```
   
-<h3 align="center">Installation (Private Server)</h3>
-
-  ```html
-wget https://raw.githubusercontent.com/johndesu090/centos6app/master/private.sh && chmod +x private.sh && ./private.sh
-  ```  
-  
 <h3 align="center">Installation (VIP Server)</h3>
 
   ```html
 wget https://raw.githubusercontent.com/johndesu090/centos6app/master/vip.sh && chmod +x vip.sh && ./vip.sh
   ```
+  
+<h3 align="center">Installation (Private Server)</h3>
+
+  ```html
+wget https://raw.githubusercontent.com/johndesu090/centos6app/master/private.sh && chmod +x private.sh && ./private.sh
+  ```  
   
 <h3 align="center">Additional Info</h3>
 
